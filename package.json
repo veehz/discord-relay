@@ -1,6 +1,6 @@
 {
   "name": "@veehz/discord-relay",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Relays messages via a discord channel",
   "repository": "veehz/discord-relay",
   "main": "index.js",
