@@ -1,0 +1,12 @@
+{
+  "name": "@veehz/discord-relay",
+  "version": "0.1.0",
+  "description": "Relays messages via a discord channel",
+  "repository": "veehz/discord-relay",
+  "main": "index.js",
+  "author": "veehz",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
